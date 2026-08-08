@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+orders.db
+.env
+
+# private — never commit; keep out of the scanned tree
+ANSWER-KEY.md
+TEST-PLAN.md
+results/
